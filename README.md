@@ -6,3 +6,5 @@ PyAudio==0.2.11,
 SpeechRecognition==3.8.1, 
 requests==2.28.2, 
 urllib3==1.26.14, 
+wikipedia, webbrowser, sys, pywhatkit
+pyttsx3, datetime, os, random, requests
